@@ -17,12 +17,6 @@ Return:
 
 ---
 
-## Simple Explanation
-
-Imagine your DNA is a LEGO train 🚂. Some of the LEGO blocks (introns) are broken, and we know exactly which ones. We remove them, join the good ones (exons), change their color (T → U for RNA), then convert every 3 blocks into 1 puzzle piece (amino acid) — this builds the final protein 🧹.
-
----
-
 ## Example Input (`input.txt`)
 
 ```
